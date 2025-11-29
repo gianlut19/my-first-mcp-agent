@@ -1,0 +1,16 @@
+# Core MCP e LangChain
+mcp
+mcp[cli]
+langchain
+langchain-groq
+langchain-anthropic
+langchain-openai
+langchain-mcp-adapters
+langgraph
+
+# Utilities
+python-dotenv
+loguru
+
+# Chainlit
+chainlit

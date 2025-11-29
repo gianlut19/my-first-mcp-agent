@@ -1,0 +1,5 @@
+.env
+.venv/
+__pycache__/
+.chainlit/translations/
+agent_debug.log
